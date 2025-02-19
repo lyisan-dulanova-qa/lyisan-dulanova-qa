@@ -69,20 +69,24 @@
 
 </div>
 
+
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
 <br>
 
 ## 🪴 Практика и стажировка
+[<img src="/internship.png.png" width="208px" hspace="10px" alt="Сертификат об окончании стажировки=">] (https://raw.githubusercontent.com/lyisan-dulanova-qa/lyisan-dulanova-qa/refs/heads/main/internship.png.png)
+
 <br>
 
 ## 🎒 Образование
+[<img src="/certificate.png.png" width="208px" hspace="10px" alt="Сертификат об окончании стажировки=">] (https://raw.githubusercontent.com/lyisan-dulanova-qa/lyisan-dulanova-qa/refs/heads/main/certificate.png.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:lyisan@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@lyisan1)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
