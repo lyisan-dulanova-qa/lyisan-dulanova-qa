@@ -77,10 +77,12 @@
 ## 🪴 Практика и стажировка
 [<img src="/internship.png.png" width="208px" hspace="10px" alt="Сертификат об окончании стажировки=">] (https://raw.githubusercontent.com/lyisan-dulanova-qa/lyisan-dulanova-qa/refs/heads/main/internship.png.png)
 
+
 <br>
 
 ## 🎒 Образование
 [<img src="/certificate.png.png" width="208px" hspace="10px" alt="Сертификат об окончании стажировки=">] (https://raw.githubusercontent.com/lyisan-dulanova-qa/lyisan-dulanova-qa/refs/heads/main/certificate.png.png)
+
 
 <br>
 <br>
